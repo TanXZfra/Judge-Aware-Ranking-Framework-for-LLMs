@@ -2,6 +2,8 @@
 
 **Paper:** [A Judge-Aware Ranking Framework for Evaluating Large Language Models without Ground Truth](https://arxiv.org/abs/2601.21817)
 
+**Leaderboard** ([https://arxiv.org/abs/2601.21817](https://wujw13.github.io/rank_llm/))
+
 **Authors:** Mingyuan Xu, Xinzi Tan, Jiawei Wu, Doudou Zhou
 
 ---
