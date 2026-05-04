@@ -4,7 +4,7 @@
 
 **Leaderboard:** [https://arxiv.org/abs/2601.21817](https://wujw13.github.io/rank_llm/)
 
-**In-house Data:** [https://arxiv.org/abs/2601.21817](https://drive.google.com/drive/folders/17yIui21-gg7rZ1Z8W2ipt8boY-olC8IX?usp=drive_link)
+**In-house Data:** [https://drive.google.com/drive/folders/17yIui21-gg7rZ1Z8W2ipt8boY-olC8IX?usp=drive_link](https://drive.google.com/drive/folders/17yIui21-gg7rZ1Z8W2ipt8boY-olC8IX?usp=drive_link)
 
 **Authors:** Mingyuan Xu, Xinzi Tan, Jiawei Wu, Doudou Zhou
 
