@@ -2,7 +2,7 @@
 
 **Paper:** [A Judge-Aware Ranking Framework for Evaluating Large Language Models without Ground Truth](https://arxiv.org/abs/2601.21817)
 
-**Leaderboard:** [https://arxiv.org/abs/2601.21817](https://wujw13.github.io/rank_llm/)
+**Leaderboard:** [https://wujw13.github.io/rank_llm/](https://wujw13.github.io/rank_llm/)
 
 **In-house Data:** [https://drive.google.com/drive/folders/17yIui21-gg7rZ1Z8W2ipt8boY-olC8IX?usp=drive_link](https://drive.google.com/drive/folders/17yIui21-gg7rZ1Z8W2ipt8boY-olC8IX?usp=drive_link)
 
